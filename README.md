@@ -1,2 +1,2 @@
-# LicenseStatement
-Xiamen Instinct Blockchain Technology Licence Statement repository
+# License Statement of Xiamen Instinct Blockchain Technology.
+All documentation Xiamen Instinct Blockchain Technology Licence Statement repository
